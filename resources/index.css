@@ -1,0 +1,40 @@
+table {
+    border-style: double;
+    border-color: darkred;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+
+h1, h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    color: tomato;
+}
+
+thead{
+    background-color: lightcoral;
+}
+
+td {
+    background-color: lightcyan;
+    text-align: center;
+    height: 50px;
+    vertical-align: bottom;
+}
+
+body {
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+th, td {
+    padding: 5px;
+    text-align: center;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
